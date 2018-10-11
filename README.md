@@ -1,2 +1,2 @@
 # Coursera-ML
-Coursera Machine Learning assignment in python
+Coursera Machine Learning assignments in python
